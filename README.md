@@ -1,6 +1,6 @@
 # StrukturData-Q1-2501010021-I-Gusti-Ngurah-Ketut-Puja-Bagus-Permana-A
 
-1.Array dapat melakukan akses elemen dalam waktu O(1) karena array disimpan di memori yang kontinu (contiguous memory). Setiap elemen memiliki ukuran tetap, sehingga alamat elemen ke-i bisa dihitung langsung.
+1. Array dapat melakukan akses elemen dalam waktu O(1) karena array disimpan di memori yang kontinu (contiguous memory). Setiap elemen memiliki ukuran tetap, sehingga alamat elemen ke-i bisa dihitung langsung.
 
 Artinya, CPU tidak perlu menelusuri elemen satu per satu—langsung lompat ke alamat yang dituju.
 
