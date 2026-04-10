@@ -1,0 +1,1 @@
+# StrukturData-Q1-2501010021-I-Gusti-Ngurah-Ketut-Puja-Bagus-Permana-A
